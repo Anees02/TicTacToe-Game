@@ -10,5 +10,5 @@ Link to see the Class Diagram:
 
 ### Steps to run the Console Based Application
 - directory : ``` cd TicTacToe-Game/Game/src ```
-- compile the main file : ``` javac main.java```
+- compile the main file : ```javac main.java```
 - run the file : ``` java main```
